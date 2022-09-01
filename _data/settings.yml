@@ -1,0 +1,147 @@
+#-------------------------------
+# Site Settings
+title: Corry Dongoxe
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Hi, I'm Corry! I work with Market and User Experience Research.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    # - title: 'Home'
+    #   url: '/'
+    # - title: 'Contact'
+    #   url: '/contact/'
+    # - title: 'Projects'
+    #   url: '/projects/'
+    # - title: 'Blog'
+    #   url: '/blog/'
+    # - title: 'About'
+    #  url: '/about/'
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Corry Dongoxe
+  author__bio: Hi, I'm Corry! I work with Market and User Experience Research.
+  author__avatar: '/images/corry/CorryFooter.jpg'
+
+social:
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/corrydongoxe/"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hi, I'm Corry!
+  hero__description: "I'm working with <b>Market</b> and <b>User Experience Research</b>, eager to understand human behaviour as means to help our society.
+  <br>
+  <br>At Utrecht University I had a Bachelor's degree in Neuropsychology and a Master's in Applied Cognitive Psychology.
+  <br>
+  <br>Currently I'm a Market Research Trainee at Ipsos Netherlands."
+  hero__image: '/images/corry/CorryHero.jpg'
+
+
+#-------------------------------
+# Newsletter
+mailchimp:  #enable To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__input__text: Your email address...
+mailchimp__button__text: Get updates
+
+
+#-------------------------------
+# Projects Settings
+projects__settings:
+  projects__title: Projects
+  projects__description: I get to work with a lot of wonderful people on really intersting stuff.
+
+
+#-------------------------------
+# Testimonials Section
+testimonial__title: Experience
+testimonial__description:
+
+testimonial__items:
+  - name: "Ipsos Netherlands"
+    image: "/images/corry/companies/IpsosLogo.jpg"
+    designation: "Market Research Trainee"
+    link: "https://www.ipsos.com/nl-nl"
+    content : "I'm joining Ipsos as of October 2022, as Market Research Trainee."
+
+  - name: "MediaTest"
+    image: "/images/corry/companies/MediaTestLogo.jpg"
+    designation: "Market Research Intern"
+    link: "https://mediatest.nl"
+    content : "While at MediaTest I conducted my own reseach on ____, also participating in interviews."
+
+  - name: "University Medical Center Utrecht"
+    image: "/images/corry/companies/UMCLogo.jpg"
+    designation: "Research Intern Developmental Disorders"
+    link: "https://www.umcutrecht.nl"
+    content : "I was part of a study that researched how children with autism, epilepsy, or related disorders process stimuli and if certain medications could reduce de overstimulation in their brain."
+
+#-------------------------------
+# Blog Section
+blog__settings:
+  blog__title: Some published thoughts
+  blog__description: I write. I think about science, policy, interesting approaches to careers, and how it's best when all these come together.
+
+
+#-------------------------------
+# Gallery Footer Settings
+gallery:
+  gallery__images:
+    # - alt: 'Wilderness'
+    #   url: '/images/VA-Canoeing.jpg'
+    # - alt: 'Hobby'
+    #   url: '/images/Cancun-SCUBA.jpg'
+    # - alt: 'Adventure'
+    #   url: '/images/Dalton-Hills.jpg'
+    # - alt: 'Notes'
+    #   url: '/images/Grand-Canyon.jpg'
+
+
+#-------------------------------
+# Footer Navigation Settings
+footer_menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    # - title: 'Contact'
+    #   url: '/contact/'
+    # - title: 'Projects'
+    #   url: '/projects/'
+    # - title: 'Blog'
+    #   url: '/blog/'
+    #- title: 'Podcast'
+    #  url: '/tags/?tag=episodes'
+    #- url: '/about/'
+    #  title: 'About'
+    #- url: '/elements/'
+    #  title: 'Elements'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: corrydongoxe@gmail.com # Add your form_id
+  description: If you'd like to chat, shoot me a note. Or find me on <a href="https://www.linkedin.com/in/corrydongoxe/" target="_blank">LinkedIn</a>
+
+# NOTE
+# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+# disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+# google-analytics: # Add your GA Tracking Id
