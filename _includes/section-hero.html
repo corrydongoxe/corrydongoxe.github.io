@@ -14,6 +14,11 @@
           <div class="hero__right">
             <h1 class="hero__title">{{ site.data.settings.hero.hero__title }}</h1>
             <p class="hero__description">{{ site.data.settings.hero.hero__description }}</p>
+            <div class="hero__subscribe">
+              <h2 class="article__title">
+                <a href="mailto:{{ site.data.settings.contact.email }}">📬 Get in contact!</a>
+              </h2>
+            </div>
             {% if site.data.settings.mailchimp == "enable" %}
             <div class="hero__subscribe">
               <form class="subscribe-form validate"

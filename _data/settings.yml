@@ -25,7 +25,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Corry Dongoxe
-  author__bio: Hi, I'm Corry! I work with Market and User Experience Research.
+  author__bio: I work with Market and User Experience Research.
   author__avatar: '/images/corry/CorryFooter.jpg'
 
 social:
@@ -72,13 +72,13 @@ testimonial__items:
     image: "/images/corry/companies/IpsosLogo.jpg"
     designation: "Market Research Trainee"
     link: "https://www.ipsos.com/nl-nl"
-    content : "I'm joining Ipsos as of October 2022, as Market Research Trainee."
+    content : "Joining Ipsos as of October 2022. Ipsos is a global leader in market research, delivering reliable information and true understanding of Society, Markets and People."
 
   - name: "MediaTest"
     image: "/images/corry/companies/MediaTestLogo.jpg"
     designation: "Market Research Intern"
     link: "https://mediatest.nl"
-    content : "While at MediaTest I conducted my own reseach on ____, also participating in interviews."
+    content : "I conducted my own reseach on how the social restrictions during the COVID-19 lockdowns affected younger generations, given their existing tendency to suffer from FOMO."
 
   - name: "University Medical Center Utrecht"
     image: "/images/corry/companies/UMCLogo.jpg"
